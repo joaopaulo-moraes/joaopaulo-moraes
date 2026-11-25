@@ -2,8 +2,13 @@
 
 **Data Science & Analytics | Python, Pandas & SQL | Background em Assessoria de Investimentos e KPIs Logísticos**
 
-Profissional de **Ciência e Análise de Dados**, unindo sólida experiência analítica e de negócios adquirida na liderança de operações logísticas (Ambev) e na gestão de carteiras e planejamento financeiro (InvestSmart).
+Sou **João Paulo Moraes**, profissional com sólida base em finanças, operações e liderança, focado em **Ciência e Análise de Dados** para transformar dados em decisões práticas de negócio.
 
+Estou em formação pelo **Bootcamp de Ciência de Dados da TripleTen** (programa de 9 meses em andamento). Nos módulos já avançados, tenho aplicado **Python** e **Pandas** para leitura, limpeza, manipulação e transformação de dados, além de análise exploratória, visualização de dados, estatística descritiva, probabilidade, testes de hipóteses, **Git/GitHub** e criação de aplicações web com **Streamlit**.
+
+Atualmente, atuo remotamente como **Assessor de Investimentos na InvestSmartXP**, gerindo carteira de cerca de 120 a 130 clientes com planejamento mensal e análise de indicadores financeiros (após dois anos em liderança presencial como Capitão e Team Leader). Anteriormente, passei quase cinco anos na **Cervejaria Ambev** em logística, análise de rotas, gestão de armazém e supervisão de vendas.
+
+Tenho experiência prática em **Python, Pandas, limpeza e manipulação de dados, estatística, testes de hipóteses, Git/GitHub, análise de KPIs, planejamento financeiro e gestão de equipes**.
 ### 🛠️ Linguagens e Tecnologias
 
 <p align="left">
